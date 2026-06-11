@@ -67,15 +67,6 @@ Apache JMeter was used to simulate multiple concurrent users and evaluate server
 * Concurrent Request Handling
 * Performance Testing
 
-## Future Improvements
-
-* HTTP request parsing
-* GET and POST request support
-* Request logging
-* Graceful server shutdown
-* Static file serving
-* Monitoring and performance metrics
-
 ## Author
 
 Vansh Singla
